@@ -6,64 +6,64 @@ Java is one of the most ubiquitous and versatile languages in the world. It runs
 
 Prework and Introductions
 
-- [ ] Prework
-- [ ] Install Party!
+- [ ] [Prework](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Prework.md)
+- [ ] [Install Party!](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Install%20Party.md)
 
 ## Foundations 
 
 This is content we need to cover before we can really get to work programming.
 
-- [ ] Welcome To Java and Clojure!   
-- [ ] The Command Line   
-- [ ] Git   
+- [ ] [Welcome To Java and Clojure!](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Welcome%20To%20Java%20and%20Clojure.md)   
+- [ ] [The Command Line](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/The%20Command%20Line.md)   
+- [ ] [Git](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Git.md)   
 - [ ] `Assignment:` Terminal Velocity   
-- [ ] What is Java anyhow?   
+- [ ] [What is Java anyhow?](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/What%20is%20Java%20anyhow.md)   
 - [ ] `Assignment:` Hello World   
-- [ ] Integrated Development Environment   
-- [ ] IntelliJ IDEA   
+- [ ] [Integrated Development Environment](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Integrated%20Development%20Environment.md)   
+- [ ] [IntelliJ IDEA](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/IntelliJ%20IDEA.md)   
 - [ ] `Assignment:` Just Joking
 
 ## Getting Started with Java 
 
 In life, we need to walk before we can run. In Java, we need to write simple programs to learn the lay of the land.
 
-- [ ] The Basics   
-- [ ] Variables   
+- [ ] [The Basics](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/The%20Basics.md)   
+- [ ] [Variables](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Variables.md)   
 - [ ] `Assignment:` What's Wrong With This Thing?!   
-- [ ] Primitives   
-- [ ] Operators   
-- [ ] Order of operations   
+- [ ] [Primitives](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Primitives.md)   
+- [ ] [Operators](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Operators.md)   
+- [ ] [Order of operations](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Order%20of%20operations.md)   
 - [ ] `Assignment:` Hello Operator   
-- [ ] Conditionals   
-- [ ] Loops   
+- [ ] [Conditionals](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Conditionals.md)   
+- [ ] [Loops](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Loops.md)   
 - [ ] `Assignment:` Kata: FizzBuzz   New Lesson New Assignment
 
 ## Classes, Objects, and Methods 
 
 Classes and objects are the core of Java. You can't do anything without them.
 
-- [ ] Modeling   
-- [ ] Classes   
-- [ ] Objects   
+- [ ] [Modeling](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Modeling.md)   
+- [ ] [Classes](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Classes.md)   
+- [ ] [Objects](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Objects.md)   
 - [ ] `Assignment:` Lost Cards   
-- [ ] Literals   
-- [ ] String literals   
-- [ ] New   
-- [ ] Methods and invocation   
-- [ ] Scanner   
+- [ ] [Literals](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Literals.md)   
+- [ ] [String literals](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/String%20literals.md)   
+- [ ] [New](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/New.md)   
+- [ ] [Methods and invocation](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Methods%20and%20invocation.md)   
+- [ ] [Scanner](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Scanner.md)   
 - [ ] `Assignment:` Low End Calculator
 
 ## Writing classes 
 
 Now that we know what classes are, how to instantiate them, and how to call methods on them, let's learn how to actually write our own classes.
 
-- [ ] Class   
-- [ ] Properties   
-- [ ] State   
+- [ ] [Class](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Class%20writing.md)   
+- [ ] [Properties](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Properties.md)   
+- [ ] [State](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/State.md)   
 - [ ] `Assignment:` Objective Evidence   
-- [ ] Classes are organized into packages   
-- [ ] Package   
-- [ ] Import   
+- [ ] [Classes are organized into packages](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Classes%20are%20organized%20into%20packages.md)   
+- [ ] [Package](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Package.md)   
+- [ ] [Import](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Import.md)   
 - [ ] Constructors   
 - [ ] Methods   
 - [ ] Accessors and Mutators   
