@@ -1,0 +1,1 @@
+There are other collections in the JCF that we haven't gone over. You might be interested in reading through [the documentation](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/). Additionally, there are other ways of working with collections that we'll come back to over time.

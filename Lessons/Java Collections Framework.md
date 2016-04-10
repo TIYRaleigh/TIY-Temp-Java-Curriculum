@@ -1,0 +1,3 @@
+Arrays are awesome and all, but, quite honestly, they're a bit primitive. The static nature of arrays can make them hard to work with. To resize an array you have to create a whole new array. You can only index items in the array by a numeric value. You have to use the `Arrays` class for any fancy capabilities.They only solve one problem, working with lists of objects or primitives. 
+
+Happily, Java includes the Java Collections Framework (JCF). The JCF provides a bunch of classes whose purpose it is to work with _collections_ of data. A collection is a group of objects. These objects are called _elements_. Different types of collections have different features. All collections in Java are _iterable_. This means you can loop over them using foreach syntax.
