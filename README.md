@@ -64,32 +64,32 @@ Now that we know what classes are, how to instantiate them, and how to call meth
 - [ ] [Classes are organized into packages](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Classes%20are%20organized%20into%20packages.md)   
 - [ ] [Package](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Package.md)   
 - [ ] [Import](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Import.md)   
-- [ ] Constructors   
-- [ ] Methods   
-- [ ] Accessors and Mutators   
+- [ ] [Constructors](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Constructors.md)   
+- [ ] [Methods](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Methods.md)   
+- [ ] [Accessors and Mutators](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Accessors%20and%20Mutators.md)   
 - [ ] `Assignment:` Methodically Learning   
-- [ ] Encapsulation   
-- [ ] Exceptions   
-- [ ] Responsibilities   
-- [ ] Static   
-- [ ] Static Properties   
-- [ ] Static Methods   
+- [ ] [Encapsulation](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Encapsulation.md)   
+- [ ] [Exceptions](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Exceptions.md)   
+- [ ] [Responsibilities](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Responsibilities.md)   
+- [ ] [Static](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Static.md)   
+- [ ] [Static Properties](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Static%20Properties.md)   
+- [ ] [Static Methods](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Static%20Methods.md)   
 - [ ] `Assignment:` 99 Bottles of Beer
 
 ## Arrays 
 
 Arrays are used to store lists of objects.
 
-- [ ] Introduction   
-- [ ] Array   
-- [ ] Arrays of primitive values   
-- [ ] Arrays of objects   
-- [ ] Array Literals   
-- [ ] Length   
-- [ ] Iterating over arrays with for   
-- [ ] Iterating over arrays with foreach   
-- [ ] Multidimensional Arrays   
-- [ ] Arrays class   
+- [ ] [Introduction](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Introduction.md)   
+- [ ] [Array](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Array.md)   
+- [ ] [Arrays of primitive values](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Arrays%20of%20primitive%20values.md)   
+- [ ] [Arrays of objects](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Arrays%20of%20objects.md)   
+- [ ] [Array Literals](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Array%20Literals.md)   
+- [ ] [Length](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Length.md)   
+- [ ] [Iterating over arrays with for](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Iterating%20over%20arrays%20with%20for.md)   
+- [ ] [Iterating over arrays with foreach](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Iterating%20over%20arrays%20with%20foreach.md)   
+- [ ] [Multidimensional Arrays](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Multidimensional%20Arrays.md)   
+- [ ] [Arrays class](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Arrays%20class.md)   
 
 ## Java Collections Framework 
 
@@ -97,46 +97,45 @@ Arrays are awesome and all, but, quite honestly, they're a bit primitive. The st
 
 Happily, Java includes the Java Collections Framework (JCF). The JCF provides a bunch of classes whose purpose it is to work with collections of data. A collection is a group of objects. These objects are called elements. Different types of collections have different features. All collections in Java are iterable. This means you can loop over them using foreach syntax.
 
-- [ ] Java Collections Framework   
-- [ ] ArrayList   
-- [ ] Generics   
-- [ ] HashMap   
-- [ ] HashSet   
-- [ ] Other Collections
+- [ ] [Java Collections Framework](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Java%20Collections%20Framework.md)   
+- [ ] [ArrayList](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/ArrayList.md)   
+- [ ] [Generics](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Generics.md)   
+- [ ] [HashMap](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/HashMap.md)   
+- [ ] [HashSet](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/HashSet.md)   
+- [ ] [Other Collections](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Other%20Collections.md)
 
 ## Debugging 
 
 Debugging software is more of an art than a science. It's quite a bit like solving a puzzle. You will probably have pieces of the puzzle given to you. These might be error messages or unexpected behavior. With that knowledge you can usually narrow down where the problem is coming from. You can dig into that area, looking for more information. Once you have all enough of the pieces, you can put the picture together and fix the bug.
 
-- [ ] Compile Time Errors and Warnings   
-- [ ] Runtime Errors   
-- [ ] Print debugging   
-- [ ] Step debugging   
-- [ ] Professional Googler
+- [ ] [Compile Time Errors and Warnings](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Compile%20Time%20Errors%20and%20Warnings.md)   
+- [ ] [Runtime Errors](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Runtime%20Errors.md)   
+- [ ] [Print debugging](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Print%20debugging.md)   
+- [ ] [Step debugging](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Step%20debugging.mdhttps://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Step%20debugging.md)   
+- [ ] [Professional Googler](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Professional%20Googler.md)
 
 ## Unit Tests 
 
 There are many ways to test software. New programmers will typically just run their code, over and over, trying to find and fix problems. This can be extremely time consuming. Sometimes businesses will hire a quality assurance person to manually test an application, looking for issues. These QA people may become rather sophisticated over time. But, eventually, almost any system will become too complex to reliably test manually.
 
-- [ ] JUnit   
-- [ ] Directory structure   
-- [ ] The anatomy of a test   
-- [ ] Running the test   
-- [ ] Test results   
-- [ ] Classic Assertions   
-- [ ] Hamcrest Matchers   
-- [ ] Testing for expected exceptions   
-- [ ] Don't test for unlikely exceptions   
-- [ ] The JUnit lifecycle   
-- [ ] Run tests frequently   
-- [ ] Test behavior, not methods   
+- [ ] [JUnit](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/JUnit.md)   
+- [ ] [Directory structure](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Directory%20structure.md)   
+- [ ] [The anatomy of a test](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/The%20anatomy%20of%20a%20test.md)   
+- [ ] [Running the test](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Running%20the%20test.md)   
+- [ ] [Test results](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Test%20results.md)   
+- [ ] [Classic Assertions](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Classic%20Assertions.md)   
+- [ ] [Hamcrest Matchers](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Hamcrest%20Matchers.md)   
+- [ ] [Testing for expected exceptions](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Testing%20for%20expected%20exceptions.md)   
+- [ ] [Don't test for unlikely exceptions](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Don't%20test%20for%20unlikely%20exceptions.md)   
+- [ ] [The JUnit lifecycle](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/The%20JUnit%20lifecycle.md)   
+- [ ] [Run tests frequently](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Run%20tests%20frequently.md)   
+- [ ] [Test behavior, not methods](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Test%20behavior%2C%20not%20methods.md)   
 
 ## Test Driven Development 
 
 Test Driven Development (TDD) is a widely used process for writing software. With TDD, the coding process is the reverse of what you might expect, you write your tests first and then write code that makes them pass.
 
-- [ ] Red, Green, Refactor   
-- [ ] A Scenario
-
+- [ ] [Red, Green, Refactor](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Red%20Green%20Refactor.md)   
+- [ ] [A Scenario](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/A%20Scenario.md)
 
 _.... insert more curriculum here ...._
