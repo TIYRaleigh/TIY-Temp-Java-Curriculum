@@ -16,12 +16,12 @@ This is content we need to cover before we can really get to work programming.
 - [ ] [Welcome To Java and Clojure!](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Welcome%20To%20Java%20and%20Clojure.md)   
 - [ ] [The Command Line](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/The%20Command%20Line.md)   
 - [ ] [Git](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Git.md)   
-- [ ] `Assignment:` Terminal Velocity   
+- [ ] `Assignment:` [Terminal Velocity](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Assignments/Terminal%20Velocity.md)   
 - [ ] [What is Java anyhow?](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/What%20is%20Java%20anyhow.md)   
-- [ ] `Assignment:` Hello World   
+- [ ] `Assignment:` [Hello World](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Assignments/Hello%20World.md)   
 - [ ] [Integrated Development Environment](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Integrated%20Development%20Environment.md)   
 - [ ] [IntelliJ IDEA](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/IntelliJ%20IDEA.md)   
-- [ ] `Assignment:` Just Joking
+- [ ] `Assignment:` [Just Joking](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Assignments/Just%20Joking.md)
 
 ## Getting Started with Java 
 
@@ -29,14 +29,14 @@ In life, we need to walk before we can run. In Java, we need to write simple pro
 
 - [ ] [The Basics](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/The%20Basics.md)   
 - [ ] [Variables](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Variables.md)   
-- [ ] `Assignment:` What's Wrong With This Thing?!   
+- [ ] `Assignment:` [What's Wrong With This Thing?!](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Assignments/Whats%20Wrong%20With%20This%20Thing.md)   
 - [ ] [Primitives](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Primitives.md)   
 - [ ] [Operators](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Operators.md)   
 - [ ] [Order of operations](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Order%20of%20operations.md)   
-- [ ] `Assignment:` Hello Operator   
+- [ ] `Assignment:` [Hello Operator](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Assignments/Hello%20Operator.md)   
 - [ ] [Conditionals](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Conditionals.md)   
 - [ ] [Loops](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Loops.md)   
-- [ ] `Assignment:` Kata: FizzBuzz   New Lesson New Assignment
+- [ ] `Assignment:` [Kata: FizzBuzz](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Assignments/Kata-%20FizzBuzz.md)
 
 ## Classes, Objects, and Methods 
 
@@ -45,13 +45,13 @@ Classes and objects are the core of Java. You can't do anything without them.
 - [ ] [Modeling](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Modeling.md)   
 - [ ] [Classes](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Classes.md)   
 - [ ] [Objects](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Objects.md)   
-- [ ] `Assignment:` Lost Cards   
+- [ ] `Assignment:` [Lost Cards](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Assignments/Lost%20Cards.md)   
 - [ ] [Literals](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Literals.md)   
 - [ ] [String literals](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/String%20literals.md)   
 - [ ] [New](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/New.md)   
 - [ ] [Methods and invocation](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Methods%20and%20invocation.md)   
 - [ ] [Scanner](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Scanner.md)   
-- [ ] `Assignment:` Low End Calculator
+- [ ] `Assignment:` [Low End Calculator](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Assignments/Low%20End%20Calculator.md)
 
 ## Writing classes 
 
@@ -60,21 +60,21 @@ Now that we know what classes are, how to instantiate them, and how to call meth
 - [ ] [Class](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Class%20writing.md)   
 - [ ] [Properties](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Properties.md)   
 - [ ] [State](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/State.md)   
-- [ ] `Assignment:` Objective Evidence   
+- [ ] `Assignment:` [Objective Evidence](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Assignments/Objective%20Evidence.md)   
 - [ ] [Classes are organized into packages](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Classes%20are%20organized%20into%20packages.md)   
 - [ ] [Package](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Package.md)   
 - [ ] [Import](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Import.md)   
 - [ ] [Constructors](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Constructors.md)   
 - [ ] [Methods](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Methods.md)   
 - [ ] [Accessors and Mutators](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Accessors%20and%20Mutators.md)   
-- [ ] `Assignment:` Methodically Learning   
+- [ ] `Assignment:` [Methodically Learning](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Assignments/Methodically%20Learning.md)   
 - [ ] [Encapsulation](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Encapsulation.md)   
 - [ ] [Exceptions](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Exceptions.md)   
 - [ ] [Responsibilities](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Responsibilities.md)   
 - [ ] [Static](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Static.md)   
 - [ ] [Static Properties](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Static%20Properties.md)   
 - [ ] [Static Methods](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Lessons/Static%20Methods.md)   
-- [ ] `Assignment:` 99 Bottles of Beer
+- [ ] `Assignment:` [99 Bottles of Beer](https://github.com/TIYRaleigh/TIY-Temp-Java-Curriculum/blob/master/Assignments/99%20Bottles%20of%20Beer.md)
 
 ## Arrays 
 
